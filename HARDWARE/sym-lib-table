@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name OLIMEXINO-2560_Rev_B)(type Legacy)(uri ${KIPRJMOD}/OLIMEXINO-2560_Rev_B.lib)(options "")(descr ""))
+  (lib (name OLIMEXINO-2560_Rev_B-rescue)(type Legacy)(uri ${KIPRJMOD}/OLIMEXINO-2560_Rev_B-rescue.lib)(options "")(descr ""))
+)
